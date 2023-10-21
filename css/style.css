@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body , body *
+{
+	font-family:tahoma;
+}
+
+.row-style
+{
+margin:10px;	
+}
+
+.row-style .title-style
+	{
+	width:120px;
+	display:inline-block;	
+	}
+
+
+.row-style  .error , .error
+{
+color:red;	
+}
